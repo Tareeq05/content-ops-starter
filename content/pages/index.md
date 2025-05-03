@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: WHAT CAN WE GET YOU.
+      text: 'WHAT CAN WE GET YOU,'
       color: text-dark
       type: TitleBlock
     subtitle: SEND US
