@@ -3,7 +3,7 @@ type: PageLayout
 title: SIGN UP OR LOG IN
 sections: []
 slug: empty
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
