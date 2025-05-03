@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: SIGN UP OR LOG IN
 sections: []
 slug: empty
 isDraft: false
