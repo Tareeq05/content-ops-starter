@@ -8,10 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: SEND US
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ****
+
+
+      **Simplify your life, stress less, and get things done with ease. Your
+      time is valuable—let us help you make the most of it. Whether it’s
+      errands, deliveries, or daily tasks, we’re here to take the load off your
+      shoulders. Welcome to a smarter way of living!"**
+
+
+
     actions:
       - label: Get started
         altText: ''
