@@ -2,7 +2,7 @@
 type: PageLayout
 title: SIGN IN OR SIGN UP
 sections: []
-slug: empty
+slug: SIGN UP OR SIGN IN
 isDraft: false
 seo:
   type: Seo
